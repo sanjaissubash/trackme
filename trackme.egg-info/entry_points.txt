@@ -1,0 +1,2 @@
+[console_scripts]
+trackme = trackme.cli:main
