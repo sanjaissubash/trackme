@@ -1,9 +1,0 @@
-Metadata-Version: 2.4
-Name: trackme
-Version: 0.3.0
-Summary: TrackMe CLI - final hybrid REPL and one-liner time tracker
-Requires-Python: >=3.8
-Requires-Dist: rich>=13.0.0
-Dynamic: requires-dist
-Dynamic: requires-python
-Dynamic: summary
